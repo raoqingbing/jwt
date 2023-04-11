@@ -5,7 +5,15 @@
         "This file is @generated automatically"
     ],
     "content-hash": "3441f52543017c634b0c43226f501fe1",
-    "packages": [],
+    "packages": [
+        {
+            "name": "raoqingbing/jwt",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/raoqingbing/jwt.git"
+            }
+        }
+    ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "dev",
