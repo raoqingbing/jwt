@@ -7,16 +7,16 @@ namespace Composer\Autoload;
 class ComposerStaticInit4aa19c3d6d306f4b504499193d06bf63
 {
     public static $prefixLengthsPsr4 = array (
-        'R' => 
+        'A' => 
         array (
-            'Raoqingbing\\JWT\\' => 16,
+            'Administrator\\Jwt\\' => 18,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Raoqingbing\\JWT\\' => 
+        'Administrator\\Jwt\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/src/firebase/php-jwt/src',
+            0 => __DIR__ . '/../..' . '/src',
         ),
     );
 

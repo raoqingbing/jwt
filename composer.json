@@ -1,18 +1,19 @@
 {
-    "name": "raoqingbing/jwt",
-    "description": "simple jwt",
-    "license": "Apache-2.0",
-    "minimum-stability": "dev",
+    "name": "administrator/jwt",
+    "description": "369",
     "type": "library",
+    "license": "mit",
     "autoload": {
         "psr-4": {
-            "Raoqingbing\\JWT\\": "src/firebase/php-jwt/src"
+            "Administrator\\Jwt\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "erqb"
+            "name": "rqb",
+            "email": "rqb@qq.com"
         }
     ],
-    "require":{}
+    "minimum-stability": "dev",
+    "require": {}
 }
