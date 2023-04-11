@@ -1,11 +1,11 @@
 {
-    "name": "administrator/jwt",
+    "name": "raoqingbing/jwt",
     "description": "369",
     "type": "library",
     "license": "mit",
     "autoload": {
         "psr-4": {
-            "Administrator\\Jwt\\": "src/"
+            "Raoqingbing\\JWT": "src/"
         }
     },
     "authors": [
