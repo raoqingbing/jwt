@@ -1,6 +1,6 @@
 <?php
 
-namespace Firebase\JWT;
+namespace Raoqingbing\JWT;
 
 use ArrayAccess;
 use DomainException;

@@ -2,8 +2,8 @@
 
 require_once 'vendor/autoload.php';
 
-use Firebase\JWT\JWT;
-use Firebase\JWT\Key;
+use Raoqingbing\JWT\JWT;
+use Raoqingbing\JWT\Key;
 
 $key = 'example_key';
 $payload = [
