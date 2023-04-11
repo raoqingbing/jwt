@@ -1,6 +1,6 @@
 {
-    "name": "raoqingbing/www",
-    "description": "www",
+    "name": "raoqingbing/jwt",
+    "description": "simple jwt",
     "type": "library",
     "license": "Apache-2.0",
     "autoload": {
