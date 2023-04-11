@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Administrator\\Jwt\\' => array($baseDir . '/src'),
+    'Raoqingbing\\JWT\\' => array($baseDir . '/src/firebase/php-jwt/src'),
 );
