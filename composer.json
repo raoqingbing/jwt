@@ -2,7 +2,7 @@
     "name": "raoqingbing/jwt",
     "description": "simple jwt",
     "type": "library",
-    "license": "Apache-2.0",
+    "license": "mit",
     "autoload": {
         "psr-4": {
             "Raoqingbing\\JWT\\": "src/firebase/php-jwt/src"
