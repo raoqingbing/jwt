@@ -14,5 +14,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "raoqingbing/jwt": "^6.0"
+    }
 }
